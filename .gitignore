@@ -1,0 +1,13 @@
+/vendor
+/node_modules
+/public/storage
+/storage/*.key
+/.env
+/.env.*
+/.idea
+/.vscode
+*.log
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
