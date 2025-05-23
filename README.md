@@ -10,6 +10,7 @@ A simple weather app built with Laravel that fetches current weather data from a
 
 ### 🛠️ Tech Stack
 * Laravel
+* PHP
 * Herd
 * CSS 
 * External Weather API 
