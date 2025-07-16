@@ -13,7 +13,7 @@
 <body>
     @section('content')
     <div>
-        <h2>Weather App</h2>
+        <h1>Weather App</h1>
         <label class="label" for="city">Enter city name</label>
         <form method="get" action="{{ route('weather') }}">
             <input type="text" name="city" class="input" placeholder="e.g., London" id="city"
