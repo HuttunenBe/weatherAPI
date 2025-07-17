@@ -18,14 +18,15 @@ ___
 * Herd
 * CSS 
 * External Weather API 
-## 🌦️ Weather App Demo
 
-### 🔁 Preview
+---
 
+## 🚀 Preview
 
-  <img src="weatherApiPreview.gif" alt="Weather App Preview" width="600"/>
+  <img 
+    src="laravelWeatherAppGif.gif" 
+    style="width: 80%;" 
+  />
 
-
-### 🎥 YouTube Demo
-
-Watch it here: [https://www.youtube.com/watch?v=Qh-3T4S9AFc](https://www.youtube.com/watch?v=Qh-3T4S9AFc)
+Watch Full Demo on YouTube <a href="https://youtu.be/mGgRkXncgJc"> Here!
+</a>
