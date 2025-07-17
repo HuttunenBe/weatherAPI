@@ -23,10 +23,10 @@ ___
 
 ## 🚀 Preview
 
-  <img 
-    src="gifWeatherApp.gif" 
-      
-  />
+<img 
+  src="gifWeatherApp.gif" 
+  width="80%" 
+/>
 
 Watch Full Demo on YouTube <a href="https://youtu.be/mGgRkXncgJc"> Here!
 </a>
