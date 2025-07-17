@@ -24,7 +24,8 @@ ___
 ## 🚀 Preview
 
   <img 
-    src="laravelWeatherAppGif.gif" 
+    src="gifWeatherApp.gif" 
+      
   />
 
 Watch Full Demo on YouTube <a href="https://youtu.be/mGgRkXncgJc"> Here!
