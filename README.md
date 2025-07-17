@@ -18,3 +18,14 @@ ___
 * Herd
 * CSS 
 * External Weather API 
+## 🌦️ Weather App Demo
+
+### 🔁 Preview
+
+
+  <img src="weatherApiPreview.gif" alt="Weather App Preview" width="600"/>
+
+
+### 🎥 YouTube Demo
+
+Watch it here: [https://www.youtube.com/watch?v=Qh-3T4S9AFc](https://www.youtube.com/watch?v=Qh-3T4S9AFc)
