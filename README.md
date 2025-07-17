@@ -25,7 +25,6 @@ ___
 
   <img 
     src="laravelWeatherAppGif.gif" 
-    style="width: 80%;" 
   />
 
 Watch Full Demo on YouTube <a href="https://youtu.be/mGgRkXncgJc"> Here!
