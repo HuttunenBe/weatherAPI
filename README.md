@@ -28,4 +28,4 @@ ___
   width="80%" 
 />
 
- #### 🎬 [Watch Full Demo on YouTube Here!](https://youtu.be/mGgRkXncgJc)
+ #### 🎬 [Watch Full Demo on YouTube!](https://youtu.be/mGgRkXncgJc)
