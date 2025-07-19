@@ -4,7 +4,7 @@ A simple weather app built with Laravel that fetches current weather data from a
 
 ___
 
-### ✅ Features
+## ✅ Features
 * Search weather by city name
 * Fetches real time weather data from an external API
 * Displays temperature, weather description, humidity and wind speed
@@ -19,12 +19,12 @@ ___
   width="80%" 
 />
 
- #### 🎬 [Watch Full Demo on YouTube!](https://youtu.be/mGgRkXncgJc)
+ ### 🎬 [Watch Full Demo on YouTube!](https://youtu.be/mGgRkXncgJc)
 
 
 ___
  
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 * Laravel
 * PHP
 * Herd
